@@ -183,7 +183,7 @@ p {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 1px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: Papyrus, "Playfair Display";
   font-style: italic;
 }
 #header .logo a {
@@ -222,7 +222,7 @@ p {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins", sans-serif;
+  font-family: Papyrus, "Playfair Display";
   font-size: 14px;
   font-weight: 500;
   color: #7e7d7d;
